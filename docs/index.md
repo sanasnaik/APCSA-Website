@@ -1,6 +1,7 @@
 # Welcome to Sana's Website.
 ### Full name: Sana Naik
-
+Picture of me:
+![Me](https://static.wikia.nocookie.net/disney/images/a/ae/Fish-out-of-Water-chicken-little-23921083-300-400.jpeg/revision/latest/top-crop/width/360/height/450?cb=20120126013406)
 ```markdown
 Syntax highlighted code block
 
