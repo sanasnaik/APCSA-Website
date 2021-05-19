@@ -3,9 +3,8 @@
 Picture of me:
 
 ![Me](https://static.wikia.nocookie.net/disney/images/a/ae/Fish-out-of-Water-chicken-little-23921083-300-400.jpeg/revision/latest/top-crop/width/360/height/450?cb=20120126013406)
-![test image size](https://static.wikia.nocookie.net/disney/images/a/ae/Fish-out-of-Water-chicken-little-23921083-300-400.jpeg/revision/latest/top-crop/width/360/height/450?cb=20120126013406){:class="img-responsive"}
 ![test image size](https://static.wikia.nocookie.net/disney/images/a/ae/Fish-out-of-Water-chicken-little-23921083-300-400.jpeg/revision/latest/top-crop/width/360/height/450?cb=20120126013406){:height="50%" width="50%"}
-![test image size]((https://static.wikia.nocookie.net/disney/images/a/ae/Fish-out-of-Water-chicken-little-23921083-300-400.jpeg/revision/latest/top-crop/width/360/height/450?cb=20120126013406){:height="700px" width="400px"}
+
 ```markdown
 Syntax highlighted code block
 
