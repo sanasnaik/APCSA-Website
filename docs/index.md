@@ -1,7 +1,7 @@
 # Welcome to Sana's Website.
 ### Full name: Sana Naik
 
-![Me](file:///C:/Users/SNaik2/Downloads/sana_files/183436196_866286097434977_5597565381155486361_n.jpg)
+![Me](https://static.wikia.nocookie.net/disney/images/a/ae/Fish-out-of-Water-chicken-little-23921083-300-400.jpeg/revision/latest/top-crop/width/360/height/450?cb=20120126013406)
 
 ## My Social Media
 [Instagram](https://www.instagram.com/catmousecow/)
