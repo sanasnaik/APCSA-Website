@@ -5,10 +5,9 @@ Picture of me:
 ![Me](https://static.wikia.nocookie.net/disney/images/a/ae/Fish-out-of-Water-chicken-little-23921083-300-400.jpeg/revision/latest/top-crop/width/360/height/450?cb=20120126013406)
 
 ## My Social Media
-```markdown
 [Instagram](https://www.instagram.com/catmousecow/)
 [Twitter](https://twitter.com/ThatRagdollCat)
-```
+
 # Header 1
 ## Header 2
 ### Header 3
@@ -22,7 +21,7 @@ Picture of me:
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
