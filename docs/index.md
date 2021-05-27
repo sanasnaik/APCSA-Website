@@ -1,7 +1,7 @@
 # Welcome to Sana's Website.
 ### Full name: Sana Naik
 
-![Me](https://parents.ebnet.org/genesis/sis/photos?type=student&studentID=101371)
+![Me](https://ezgif.com/image-to-datauri/ezgif-4-b5eb43a15205.png)
 ## My Social Media
 [Instagram](https://www.instagram.com/catmousecow/)
 [Twitter](https://twitter.com/ThatRagdollCat)
