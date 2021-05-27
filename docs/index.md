@@ -1,7 +1,7 @@
 # Welcome to Sana's Website.
 ### Full name: Sana Naik
 
-![Me](https://ezgif.com/image-to-datauri/ezgif-4-b5eb43a15205.png)
+![Me](https://imgur.com/a/v0dM398)
 ## My Social Media
 [Instagram](https://www.instagram.com/catmousecow/)
 [Twitter](https://twitter.com/ThatRagdollCat)
