@@ -9,5 +9,5 @@
 
 ## Brag Sheet
 - I founded the [Astronomy Club at EBPL](https://ilove.ebpl.org/teens/events/astronomy-club-zoom/2020-12-19-160000-2020-12-19-170000) last year with my friends.
-- I got a 1550 on my first try on the SAT!
+- I got a 1550 on the SAT
 - For sports, I enjoy golf, swimming, roller skating, and dance.
